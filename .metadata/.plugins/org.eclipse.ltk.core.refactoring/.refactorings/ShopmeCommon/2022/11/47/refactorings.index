@@ -1,0 +1,4 @@
+1668499513537	Rename package 'com.shopme'
+1668500071285	Encapsulate field 'id'
+1668500094780	Encapsulate field 'name'
+1668500107745	Encapsulate field 'description'

@@ -1,0 +1,12 @@
+package com.shopme.admin.user;
+
+import org.junit.jupiter.api.Test;
+
+public class passwordEncoderTest {
+	
+	@Test
+	public void passwordEncoderTest() {
+		BCryptPasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
+	}
+
+}
